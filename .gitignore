@@ -1,0 +1,10 @@
+.DS_Store
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+.Rcheck/
+.httr-oauth
+.quarto/
+.env

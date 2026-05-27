@@ -1,0 +1,13 @@
+# geoportal (Luiz)
+- 30 e 60 (TP e carro)
+- transformar para percentual
+
+- acesso a estações de transporte de grande capacidade (metrô, BRT)
+- automatizar mapas (se possível)
+
+- revisão de cores -> cores das linhas por enquanto -> revisar shapes das linhas
+
+- Mapa Brasil: Censo Mobilidade -> tempo deslocamento por modo.
+- Conjunto
+
+- Censo: 10329, 10330, 10331, 10338
