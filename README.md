@@ -1,18 +1,13 @@
-# data-ibge-censo
+# IBGE
 
-Pipeline em R para processar tabelas do Censo 2022 (IBGE/SIDRA) sobre
-deslocamento para o trabalho.
+Pipelines em R para processar tabelas do Censo (IBGE).
 
-## Tabelas
+## Pipelines
 
-- 10329, 10330, 10331, 10332, 10333
-
-Os arquivos `.xlsx` foram baixados manualmente do SIDRA (a API não suporta
-tabelas com essa complexidade) e ficam em `data-raw/`. O script
-`R/pipeline_censo_mobilidade.R` gera os dados processados em `data/`.
+- Deslocamentos para trabalho e para estudo (Amostra)
 
 ## Estrutura
 
-- `R/` — scripts de processamento
-- `data-raw/` — xlsx originais baixados do SIDRA
-- `data/` — saídas processadas
+- `R/` — scripts de processamento.
+- `data-raw/` — xlsx originais baixados do SIDRA (quando necessário).
+- `data/` — saídas processadas.
