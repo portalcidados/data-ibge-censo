@@ -1,0 +1,15 @@
+transport_mode,transport_group,transport_type,transport_mode_grouped
+A pé,Ativo,Privado,Ativo
+Bicicleta,Ativo,Privado,Ativo
+Motocicleta,Motorizado,Privado,Carro ou moto
+Mototáxi,Motorizado,Privado,Carro ou moto
+Automóvel,Motorizado,Privado,Carro ou moto
+Táxi ou assemelhados,Motorizado,Privado,Carro ou moto
+"Van, perua ou assemelhados",Motorizado,Público,Transporte público
+Ônibus,Motorizado,Público,Transporte público
+BRT ou ônibus de trânsito rápido,Motorizado,Privado,Transporte público
+Trem ou metrô,Motorizado,Público,Transporte público
+Caminhonete ou caminhão adaptado (pau de arara),Motorizado,Público,Transporte público
+Embarcação de médio e grande porte (acima de 20 pessoas),Motorizado,Público,Transporte público
+Embarcação de pequeno porte (até 20 pessoas),Motorizado,Público,Transporte público
+Outros,NA,NA,NA

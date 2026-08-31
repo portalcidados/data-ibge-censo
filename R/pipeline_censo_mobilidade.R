@@ -524,3 +524,20 @@ clean_dat <- dat |>
 clean_dat <- left_join(clean_dat, dim_income_class, by = "income_class")
 
 readr::write_rds(clean_dat, here(datadir, "tabela10329.rds"), compress = "gz")
+
+# Export dimension tables ------------------------------------------------
+
+readr::write_csv(
+  dim_income_class,
+  here(datadir, "dim_income_class.csv"),
+)
+
+readr::write_csv(
+  dim_time,
+  here(datadir, "dim_time.csv"),
+)
+
+readr::write_csv(
+  dim_transport_mode,
+  here(datadir, "dim_transport_mode.csv"),
+)

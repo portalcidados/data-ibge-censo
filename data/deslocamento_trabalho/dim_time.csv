@@ -1,0 +1,8 @@
+time,time_inf,time_max,time_midpoint
+Até cinco minutos,0,5,2.5
+De seis minutos até quinze minutos,5,15,10
+Mais de quinze minutos até meia hora,15,30,22.5
+Mais de meia hora até uma hora,30,60,45
+Mais de uma hora até duas horas,60,120,90
+Mais de duas horas até quatro horas,120,240,180
+Mais de quatro horas,240,480,240

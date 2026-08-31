@@ -1,0 +1,9 @@
+income_class,income_inf,income_max,income_midpoint,income_estimate,income_indiviudal_est
+Até 1/4 de salário mínimo,0,0.25,0.125,151.5,253.05489029062448
+Mais de 1/4 a 1/2 salário mínimo,0.25,0.5,0.375,454.5,759.1646708718735
+Mais de 1/2 a 1 salário mínimo,0.5,1,0.75,909,1518.329341743747
+Mais de 1 a 2 salários mínimos,1,2,1.5,1818,3036.658683487494
+Mais de 2 a 3 salários mínimos,2,3,2.5,3030,5061.09780581249
+Mais de 3 a 5 salários mínimos,3,5,4,4848,8097.7564892999835
+Mais de 5 salários mínimos,5,50,27.5,33330,55672.07586393739
+Sem rendimento,NA,NA,NA,NA,NA
